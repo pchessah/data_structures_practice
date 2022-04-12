@@ -1,0 +1,11 @@
+- Adding data to the beiginning of an array is more difficult than to the end of an array.
+- Both push() and unshift() mutate the array.
+
+
+- pop() and shift() are also mutator fucntions for removing items from an array.
+
+
+- splice(indexStart, 0, elements) ===> Adds elements in the middle of an array starting at the specified index.
+- splice(indexStart, 2) ==>Removes 2 elements starting from the specified indexStart position.
+
+
